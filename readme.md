@@ -1,6 +1,6 @@
 # Don Quixote
 
-It was written in the XVII century by Miguel de Cervantes, it's the most famous book of spanish speakers.Four centuries later,  Its teachings are still being valid --- If you can understand it and you don't going in mad in the process ---
+It was written in the XVII century by Miguel de Cervantes and it's the most famous book of spanish speakers.Four centuries later,  Its teachings are still being valid --- If you can understand it and you don't go mad in the process ---
 
 In this project I want to make his fame bigger in non spanish speakers and in the process make some funny things using Natural Language Processing and Machine Learning methods.
 
